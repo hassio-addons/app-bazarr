@@ -15,7 +15,7 @@ RUN \
     automake=1.18.1-r1 \
     build-base=0.5-r4 \
     linux-headers=7.0.0-r1 \
-    musl-dev=1.2.6-r2 \
+    musl-dev=1.2.6-r3 \
     py3-pip=26.1.2-r0 \
     python3-dev=3.14.8-r0 \
   \
