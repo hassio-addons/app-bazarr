@@ -21,7 +21,7 @@ RUN \
   \
   && apk add --no-cache \
     7zip=26.01-r0 \
-    ffmpeg=8.1.2-r0 \
+    ffmpeg=8.1.3-r0 \
     mediainfo=26.01-r0 \
     py3-setuptools=82.0.1-r1 \
     python3=3.14.8-r0 \
