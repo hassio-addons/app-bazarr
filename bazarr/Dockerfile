@@ -24,7 +24,7 @@ RUN \
     ffmpeg=8.1.3-r0 \
     mediainfo=26.01-r0 \
     py3-setuptools=82.0.1-r1 \
-    python3=3.14.8-r0 \
+    python3=3.14.10-r1 \
     unzip=6.0-r16 \
   \
   && curl -J -L -o /tmp/unrar.tar.gz \
